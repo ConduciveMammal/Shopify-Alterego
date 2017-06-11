@@ -1,0 +1,2695 @@
+<?xml version="1.0"?>
+<alterego>
+    <product>
+        <id>20</id>
+        <sku>YesYX511</sku>
+        <matrix_id>EMPTY</matrix_id>
+        <product_code>EMPTY</product_code>
+        <name>Yesx YX511 Bra Set Rose/Black</name>
+        <description>DO NOT USE</description>
+        <description_html>DO NOT USE</description_html>
+        <stock_type>Stock Line</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>18.9900</price_rrp>
+        <price_trade>8.6300</price_trade>
+        <categories>Yesx</categories>
+        <brand>YesX</brand>
+        <product_range>EMPTY</product_range>
+        <material>EMPTY</material>
+        <size>34C</size>
+        <height>EMPTY</height>
+        <length>EMPTY</length>
+        <width>EMPTY</width>
+        <weight>666.0000</weight>
+        <colour>Purple</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/y/x/yx511_bwlogo_3.jpg
+        </image>
+        <created_at>2016-01-21 10:12:56</created_at>
+        <updated_at>2017-06-05 08:17:16</updated_at>
+    </product>
+    <product>
+        <id>34</id>
+        <sku>BASALVAWHITEL/XL</sku>
+        <matrix_id>1539</matrix_id>
+        <product_code>basalvawht</product_code>
+        <name>Bassaya Alva White WhiteL/XL</name>
+        <description>BASSAYA Alva White L/XL</description>
+        <description_html>BASSAYA Alva White L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>yellow</stock_level>
+        <price_rrp>11.9900</price_rrp>
+        <price_trade>5.6200</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Bassaya</brand>
+        <product_range>Bassaya Alva White</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>4.2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.0900</weight>
+        <colour>White</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/b/a/basalva_white_reduced.jpg
+        </image>
+        <created_at>2016-02-12 11:00:55</created_at>
+        <updated_at>2017-05-05 11:35:21</updated_at>
+    </product>
+    <product>
+        <id>36</id>
+        <sku>BASAMAYABLACKL/XL</sku>
+        <matrix_id>1541</matrix_id>
+        <product_code>basamayblk</product_code>
+        <name>Bassaya Amaya Black BlackL/XL</name>
+        <description>BASSAYA Amaya Black L/XL</description>
+        <description_html>BASSAYA Amaya Black L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>12.9900</price_rrp>
+        <price_trade>6.0800</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Bassaya</brand>
+        <product_range>Bassaya Amaya Black</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>4.2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.0800</weight>
+        <colour>Black</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/b/a/basamaya_black_reduced.jpg
+        </image>
+        <created_at>2016-02-12 11:00:55</created_at>
+        <updated_at>2017-05-05 11:35:21</updated_at>
+    </product>
+    <product>
+        <id>38</id>
+        <sku>BASAMAYAWHITEL/XL</sku>
+        <matrix_id>1545</matrix_id>
+        <product_code>basamaywht</product_code>
+        <name>Bassaya Amaya White WhiteL/XL</name>
+        <description>BASSAYA Amaya White L/XL</description>
+        <description_html>BASSAYA Amaya White L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>12.9900</price_rrp>
+        <price_trade>6.0800</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Bassaya</brand>
+        <product_range>Bassaya Amaya White</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>4.2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.0800</weight>
+        <colour>White</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/b/a/basamaya_white_redcued.jpg
+        </image>
+        <created_at>2016-02-12 11:00:55</created_at>
+        <updated_at>2017-05-05 11:35:22</updated_at>
+    </product>
+    <product>
+        <id>40</id>
+        <sku>BASCAMILABLACKL/XL</sku>
+        <matrix_id>1547</matrix_id>
+        <product_code>bascamiblk</product_code>
+        <name>Bassaya Camila Black BlackL/XL</name>
+        <description>BASSAYA Camila Black L/XL</description>
+        <description_html>BASSAYA Camila Black L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>yellow</stock_level>
+        <price_rrp>16.9900</price_rrp>
+        <price_trade>7.7300</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Bassaya</brand>
+        <product_range>Bassaya Camila Black</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>4.2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.1100</weight>
+        <colour>Black</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/b/a/bascamilla_black_reduced.jpg
+        </image>
+        <created_at>2016-02-12 11:00:55</created_at>
+        <updated_at>2017-05-05 11:35:22</updated_at>
+    </product>
+    <product>
+        <id>41</id>
+        <sku>BASCAMILABLACKS/M</sku>
+        <matrix_id>1548</matrix_id>
+        <product_code>bascamiblk</product_code>
+        <name>Bassaya Camila Black BlackS/M</name>
+        <description>BASSAYA Camila Black S/M</description>
+        <description_html>BASSAYA Camila Black S/M</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>16.9900</price_rrp>
+        <price_trade>7.7300</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Bassaya</brand>
+        <product_range>Bassaya Camila Black</product_range>
+        <material>EMPTY</material>
+        <size>S/M</size>
+        <height>4.2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.1100</weight>
+        <colour>Black</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/b/a/bascamilla_black_reduced.jpg
+        </image>
+        <created_at>2016-02-12 11:00:55</created_at>
+        <updated_at>2017-05-05 11:35:22</updated_at>
+    </product>
+    <product>
+        <id>42</id>
+        <sku>BASCAMILAREDL/XL</sku>
+        <matrix_id>1549</matrix_id>
+        <product_code>bascamired</product_code>
+        <name>Bassaya Camila Red RedL/XL</name>
+        <description>BASSAYA Camila Red L/XL</description>
+        <description_html>BASSAYA Camila Red L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>yellow</stock_level>
+        <price_rrp>16.9900</price_rrp>
+        <price_trade>7.7300</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Bassaya</brand>
+        <product_range>Bassaya Camila Red</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>4.2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.1100</weight>
+        <colour>Red</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/b/a/bascamila_red_reduced.jpg
+        </image>
+        <created_at>2016-02-12 11:00:55</created_at>
+        <updated_at>2017-05-05 11:35:23</updated_at>
+    </product>
+    <product>
+        <id>46</id>
+        <sku>BASCAMILAWHITEL/XL</sku>
+        <matrix_id>1553</matrix_id>
+        <product_code>bascamiwht</product_code>
+        <name>Bassaya Camila White WhiteL/XL</name>
+        <description>BASSAYA Camila White L/XL</description>
+        <description_html>BASSAYA Camila White L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>16.9900</price_rrp>
+        <price_trade>7.7300</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Bassaya</brand>
+        <product_range>Bassaya Camila White</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>4.2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.1100</weight>
+        <colour>White</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/b/a/bascamila_white_reduced.jpg
+        </image>
+        <created_at>2016-02-12 11:00:55</created_at>
+        <updated_at>2017-05-05 11:35:23</updated_at>
+    </product>
+    <product>
+        <id>47</id>
+        <sku>BASCAMILAWHITES/M</sku>
+        <matrix_id>1554</matrix_id>
+        <product_code>bascamiwht</product_code>
+        <name>Bassaya Camila White WhiteS/M</name>
+        <description>BASSAYA Camila White S/M</description>
+        <description_html>BASSAYA Camila White S/M</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>yellow</stock_level>
+        <price_rrp>16.9900</price_rrp>
+        <price_trade>7.7300</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Bassaya</brand>
+        <product_range>Bassaya Camila White</product_range>
+        <material>EMPTY</material>
+        <size>S/M</size>
+        <height>4.2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.1100</weight>
+        <colour>White</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/b/a/bascamila_white_reduced.jpg
+        </image>
+        <created_at>2016-02-12 11:00:55</created_at>
+        <updated_at>2017-05-05 11:35:23</updated_at>
+    </product>
+    <product>
+        <id>56</id>
+        <sku>BASDONATAL/XL</sku>
+        <matrix_id>1563</matrix_id>
+        <product_code>basdonablk</product_code>
+        <name>Bassaya Donata Black BlackL/XL</name>
+        <description>BASSAYA Donata Black L/XL</description>
+        <description_html>BASSAYA Donata Black L/XL</description_html>
+        <stock_type>Stock Line</stock_type>
+        <stock_level>red</stock_level>
+        <price_rrp>34.9900</price_rrp>
+        <price_trade>15.9700</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Bassaya</brand>
+        <product_range>Bassaya Donata Black</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>4.2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.1800</weight>
+        <colour>Black</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/n/e/new_pasdonatablack.jpg
+        </image>
+        <created_at>2016-02-12 11:00:56</created_at>
+        <updated_at>2017-05-05 11:35:24</updated_at>
+    </product>
+    <product>
+        <id>57</id>
+        <sku>BASDONATAS/M</sku>
+        <matrix_id>1564</matrix_id>
+        <product_code>basdonablk</product_code>
+        <name>Bassaya Donata Black BlackS/M</name>
+        <description>BASSAYA Donata Black S/M</description>
+        <description_html>BASSAYA Donata Black S/M</description_html>
+        <stock_type>Stock Line</stock_type>
+        <stock_level>red</stock_level>
+        <price_rrp>34.9900</price_rrp>
+        <price_trade>15.9700</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Bassaya</brand>
+        <product_range>Bassaya Donata Black</product_range>
+        <material>EMPTY</material>
+        <size>S/M</size>
+        <height>4.2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.1800</weight>
+        <colour>Black</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/n/e/new_pasdonatablack.jpg
+        </image>
+        <created_at>2016-02-12 11:00:56</created_at>
+        <updated_at>2017-05-05 11:35:24</updated_at>
+    </product>
+    <product>
+        <id>58</id>
+        <sku>BASDONATAWHITELXL</sku>
+        <matrix_id>1565</matrix_id>
+        <product_code>basdonawht</product_code>
+        <name>Bassaya Donata White WhiteL/XL</name>
+        <description>BASSAYA Donata White L/XL</description>
+        <description_html>BASSAYA Donata White L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>34.9900</price_rrp>
+        <price_trade>15.9700</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Bassaya</brand>
+        <product_range>Bassaya Donata White</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>4.2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.1800</weight>
+        <colour>White</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/n/e/new_pasdonatawhite.jpg
+        </image>
+        <created_at>2016-02-12 11:00:56</created_at>
+        <updated_at>2017-05-05 11:35:25</updated_at>
+    </product>
+    <product>
+        <id>60</id>
+        <sku>BASELIABODYL/XL</sku>
+        <matrix_id>1567</matrix_id>
+        <product_code>baselibod</product_code>
+        <name>Bassaya Elia Body WhiteL/XL</name>
+        <description>BASSAYA Elia Body L/XL</description>
+        <description_html>BASSAYA Elia Body L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>19.9900</price_rrp>
+        <price_trade>9.2800</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Bassaya</brand>
+        <product_range>Bassaya Elia Body</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>4.2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.1500</weight>
+        <colour>White</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/b/a/baselia_body_back_reduced.jpg
+        </image>
+        <created_at>2016-02-12 11:00:56</created_at>
+        <updated_at>2017-05-05 11:35:25</updated_at>
+    </product>
+    <product>
+        <id>61</id>
+        <sku>BASELIABODYS/M</sku>
+        <matrix_id>1568</matrix_id>
+        <product_code>baselibod</product_code>
+        <name>Bassaya Elia Body WhiteS/M</name>
+        <description>BASSAYA Elia Body S/M</description>
+        <description_html>BASSAYA Elia Body S/M</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>yellow</stock_level>
+        <price_rrp>19.9900</price_rrp>
+        <price_trade>9.2800</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Bassaya</brand>
+        <product_range>Bassaya Elia Body</product_range>
+        <material>EMPTY</material>
+        <size>S/M</size>
+        <height>4.2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.1500</weight>
+        <colour>White</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/b/a/baselia_body_back_reduced.jpg
+        </image>
+        <created_at>2016-02-12 11:00:56</created_at>
+        <updated_at>2017-05-05 11:35:25</updated_at>
+    </product>
+    <product>
+        <id>68</id>
+        <sku>BASKATEVIOLETL/XL</sku>
+        <matrix_id>1577</matrix_id>
+        <product_code>baskatevio</product_code>
+        <name>Bassaya Kate Violet VioletL/XL</name>
+        <description>BASSAYA Kate Violet L/XL</description>
+        <description_html>BASSAYA Kate Violet L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>yellow</stock_level>
+        <price_rrp>19.9900</price_rrp>
+        <price_trade>9.2800</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Bassaya</brand>
+        <product_range>Bassaya Kate Violet</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>4.2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.1300</weight>
+        <colour>Violet</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/b/a/baskate_violet_reduced.jpg
+        </image>
+        <created_at>2016-02-12 11:00:56</created_at>
+        <updated_at>2017-05-05 11:35:27</updated_at>
+    </product>
+    <product>
+        <id>72</id>
+        <sku>BASLENZAL/XL</sku>
+        <matrix_id>1581</matrix_id>
+        <product_code>baslenzblk</product_code>
+        <name>Bassaya Lenza Black BlackL/XL</name>
+        <description>BASSAYA Lenza Black L/XL</description>
+        <description_html>BASSAYA Lenza Black L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>yellow</stock_level>
+        <price_rrp>28.9900</price_rrp>
+        <price_trade>13.0200</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Bassaya</brand>
+        <product_range>Bassaya Lenza Black</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>4.2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.1500</weight>
+        <colour>Black</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/n/e/new_paslenzablack.jpg
+        </image>
+        <created_at>2016-02-12 11:00:56</created_at>
+        <updated_at>2017-05-05 11:35:28</updated_at>
+    </product>
+    <product>
+        <id>74</id>
+        <sku>BASLENZAWHITELXL</sku>
+        <matrix_id>1583</matrix_id>
+        <product_code>baslenzwht</product_code>
+        <name>Bassaya Lenza White WhiteL/XL</name>
+        <description>BASSAYA Lenza White L/XL</description>
+        <description_html>BASSAYA Lenza White L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>red</stock_level>
+        <price_rrp>28.9900</price_rrp>
+        <price_trade>13.0200</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Bassaya</brand>
+        <product_range>Bassaya Lenza White</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>4.2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.1500</weight>
+        <colour>White</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/n/e/new_paslenzawhite.jpg
+        </image>
+        <created_at>2016-02-12 11:00:56</created_at>
+        <updated_at>2017-05-05 11:35:28</updated_at>
+    </product>
+    <product>
+        <id>83</id>
+        <sku>BASNATALIEBLACKS/M</sku>
+        <matrix_id>1592</matrix_id>
+        <product_code>basnatalie</product_code>
+        <name>Bassaya Natalie BlackS/M</name>
+        <description>BASSAYA Natalie Black S/M</description>
+        <description_html>BASSAYA Natalie Black S/M</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>18.9900</price_rrp>
+        <price_trade>8.4600</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Bassaya</brand>
+        <product_range>Bassaya Natalie</product_range>
+        <material>EMPTY</material>
+        <size>S/M</size>
+        <height>4.2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.1200</weight>
+        <colour>Black</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/b/a/basnatalie_reduced.jpg
+        </image>
+        <created_at>2016-02-12 11:00:56</created_at>
+        <updated_at>2017-04-26 13:11:38</updated_at>
+    </product>
+    <product>
+        <id>88</id>
+        <sku>BASODETTABLACKL/XL</sku>
+        <matrix_id>1597</matrix_id>
+        <product_code>basodetta</product_code>
+        <name>Bassaya Odetta BlackL/XL</name>
+        <description>BASSAYA Odetta Black L/XL</description>
+        <description_html>BASSAYA Odetta Black L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>19.9900</price_rrp>
+        <price_trade>9.2800</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Bassaya</brand>
+        <product_range>Bassaya Odetta</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>4.2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.1500</weight>
+        <colour>Black</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/b/a/basodetta_reduced.jpg
+        </image>
+        <created_at>2016-02-12 11:00:57</created_at>
+        <updated_at>2017-04-26 13:11:38</updated_at>
+    </product>
+    <product>
+        <id>94</id>
+        <sku>BASSAMARACREAML/XL</sku>
+        <matrix_id>1603</matrix_id>
+        <product_code>bassamacrm</product_code>
+        <name>Bassaya Samara Cream CreamL/XL</name>
+        <description>BASSAYA Samara Cream L/XL</description>
+        <description_html>BASSAYA Samara Cream L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>39.9900</price_rrp>
+        <price_trade>17.4500</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Bassaya</brand>
+        <product_range>Bassaya Samara Cream</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>4.2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.1700</weight>
+        <colour>Cream</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/n/e/new_passamaraecru.jpg
+        </image>
+        <created_at>2016-02-12 11:00:57</created_at>
+        <updated_at>2017-05-05 11:35:31</updated_at>
+    </product>
+    <product>
+        <id>96</id>
+        <sku>BASSAMARAWHITEL/XL</sku>
+        <matrix_id>1605</matrix_id>
+        <product_code>bassamawht</product_code>
+        <name>Bassaya Samara White WhiteL/XL</name>
+        <description>Bassaya Samara White L/XL</description>
+        <description_html>Bassaya Samara White L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>red</stock_level>
+        <price_rrp>39.9900</price_rrp>
+        <price_trade>17.4500</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Bassaya</brand>
+        <product_range>Bassaya Samara White</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>4.2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.1700</weight>
+        <colour>White</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/n/e/new_passamarawhite.jpg
+        </image>
+        <created_at>2016-02-12 11:00:57</created_at>
+        <updated_at>2017-05-05 11:35:32</updated_at>
+    </product>
+    <product>
+        <id>104</id>
+        <sku>PASATHENABODYWHITEL/XL</sku>
+        <matrix_id>1619</matrix_id>
+        <product_code>pasathbw</product_code>
+        <name>Passion Athena Body White WhiteL/XL</name>
+        <description>PASSION Athena Body White L/XL</description>
+        <description_html>PASSION Athena Body White L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>red</stock_level>
+        <price_rrp>24.9900</price_rrp>
+        <price_trade>11.8900</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Athena Body White</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.0600</weight>
+        <colour>White</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/n/e/new_pasathenabody_white.jpg
+        </image>
+        <created_at>2016-02-12 11:00:57</created_at>
+        <updated_at>2017-04-26 13:10:48</updated_at>
+    </product>
+    <product>
+        <id>106</id>
+        <sku>PASATHENABODYBLACKL/XL</sku>
+        <matrix_id>1621</matrix_id>
+        <product_code>pasathbb</product_code>
+        <name>Passion Athena Body Black BlackL/XL</name>
+        <description>PASSION Athena Body Black L/XL</description>
+        <description_html>PASSION Athena Body Black L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>24.9900</price_rrp>
+        <price_trade>11.8900</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Athena Body Black</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.0600</weight>
+        <colour>Black</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/n/e/new_pasathenabody_black.jpg
+        </image>
+        <created_at>2016-02-12 11:00:57</created_at>
+        <updated_at>2017-04-26 13:10:48</updated_at>
+    </product>
+    <product>
+        <id>108</id>
+        <sku>PASATHENATHONGWHITEL/XL</sku>
+        <matrix_id>1623</matrix_id>
+        <product_code>pasathtw</product_code>
+        <name>Passion Athena Thong White WhiteL/XL</name>
+        <description>PASSION Athena Thong White L/XL</description>
+        <description_html>PASSION Athena Thong White L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>9.9900</price_rrp>
+        <price_trade>4.3100</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Athena Thong White</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.0600</weight>
+        <colour>White</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/n/e/new_pasathenathongwhite.jpg
+        </image>
+        <created_at>2016-02-12 11:00:57</created_at>
+        <updated_at>2017-04-26 13:10:48</updated_at>
+    </product>
+    <product>
+        <id>110</id>
+        <sku>PASATHENATHONGBLACKL/XL</sku>
+        <matrix_id>1625</matrix_id>
+        <product_code>pasathtb</product_code>
+        <name>Passion Athena Thong Black BlackL/XL</name>
+        <description>PASSION Athena Thong Black L/XL</description>
+        <description_html>PASSION Athena Thong Black L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>red</stock_level>
+        <price_rrp>9.9900</price_rrp>
+        <price_trade>4.3100</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Athena Thong Black</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.0600</weight>
+        <colour>Black</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/n/e/new_pasathenathongblack.jpg
+        </image>
+        <created_at>2016-02-12 11:00:57</created_at>
+        <updated_at>2017-04-26 13:10:48</updated_at>
+    </product>
+    <product>
+        <id>116</id>
+        <sku>PASBESS/M</sku>
+        <matrix_id>1640</matrix_id>
+        <product_code>pasbesblk</product_code>
+        <name>Passion Bes Black BlackS/M</name>
+        <description>PASSION Bes S/M</description>
+        <description_html>PASSION Bes S/M</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>red</stock_level>
+        <price_rrp>28.9900</price_rrp>
+        <price_trade>13.0200</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Bes Black</product_range>
+        <material>EMPTY</material>
+        <size>S/M</size>
+        <height>2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.1300</weight>
+        <colour>Black</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/n/e/new_pasbesblack.jpg
+        </image>
+        <created_at>2016-02-12 11:00:57</created_at>
+        <updated_at>2017-04-26 13:10:50</updated_at>
+    </product>
+    <product>
+        <id>124</id>
+        <sku>PASADELAS/M</sku>
+        <matrix_id>1648</matrix_id>
+        <product_code>pasadela</product_code>
+        <name>Passion Adela RedS/M</name>
+        <description>PASSION Adela S/M</description>
+        <description_html>PASSION Adela S/M</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>18.9900</price_rrp>
+        <price_trade>8.4600</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Adela</product_range>
+        <material>EMPTY</material>
+        <size>S/M</size>
+        <height>4</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.1000</weight>
+        <colour>Red</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/pasadela.jpg
+        </image>
+        <created_at>2016-02-12 11:00:57</created_at>
+        <updated_at>2017-04-26 13:10:46</updated_at>
+    </product>
+    <product>
+        <id>127</id>
+        <sku>PASAMADIBLACKL/XL</sku>
+        <matrix_id>1651</matrix_id>
+        <product_code>pasamadi</product_code>
+        <name>Passion Amadi BlackL/XL</name>
+        <description>Passion Amadi Black L/XL</description>
+        <description_html>Passion Amadi Black L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>4.9900</price_rrp>
+        <price_trade>2.3100</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Amadi</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.0700</weight>
+        <colour>Black</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/pasamadi_black.jpg
+        </image>
+        <created_at>2016-02-12 11:00:58</created_at>
+        <updated_at>2017-04-26 13:10:47</updated_at>
+    </product>
+    <product>
+        <id>129</id>
+        <sku>PASAMELIEBLACKL/XL</sku>
+        <matrix_id>1653</matrix_id>
+        <product_code>pasameli</product_code>
+        <name>Passion Amelie BlackL/XL</name>
+        <description>Passion Amelie Black L/XL</description>
+        <description_html>Passion Amelie Black L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>4.9900</price_rrp>
+        <price_trade>2.3100</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Amelie</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.0600</weight>
+        <colour>Black</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/pasamelie.jpg
+        </image>
+        <created_at>2016-02-12 11:00:58</created_at>
+        <updated_at>2017-04-26 13:10:47</updated_at>
+    </product>
+    <product>
+        <id>130</id>
+        <sku>PASAMELIEBLACKS/M</sku>
+        <matrix_id>1654</matrix_id>
+        <product_code>pasameli</product_code>
+        <name>Passion Amelie BlackS/M</name>
+        <description>Passion Amelie Black S/M</description>
+        <description_html>Passion Amelie Black S/M</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>4.9900</price_rrp>
+        <price_trade>2.3100</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Amelie</product_range>
+        <material>EMPTY</material>
+        <size>S/M</size>
+        <height>2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.0600</weight>
+        <colour>Black</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/pasamelie.jpg
+        </image>
+        <created_at>2016-02-12 11:00:58</created_at>
+        <updated_at>2017-04-26 13:10:47</updated_at>
+    </product>
+    <product>
+        <id>131</id>
+        <sku>PASBESWHITEL/XL</sku>
+        <matrix_id>1656</matrix_id>
+        <product_code>pasbeswht</product_code>
+        <name>Passion Bes White WhiteL/XL</name>
+        <description>PASSION Bes White L/XL</description>
+        <description_html>PASSION Bes White L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>28.9900</price_rrp>
+        <price_trade>13.0200</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Bes White</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>2</height>
+        <length>61</length>
+        <width>15</width>
+        <weight>0.1300</weight>
+        <colour>White</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/n/e/new_pasbeswhite.jpg
+        </image>
+        <created_at>2016-02-12 11:00:58</created_at>
+        <updated_at>2017-04-26 13:10:51</updated_at>
+    </product>
+    <product>
+        <id>132</id>
+        <sku>PASBESWHITES/M</sku>
+        <matrix_id>1657</matrix_id>
+        <product_code>pasbeswht</product_code>
+        <name>Passion Bes White WhiteS/M</name>
+        <description>PASSION Bes White S/M</description>
+        <description_html>PASSION Bes White S/M</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>28.9900</price_rrp>
+        <price_trade>13.0200</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Bes White</product_range>
+        <material>EMPTY</material>
+        <size>S/M</size>
+        <height>2</height>
+        <length>61</length>
+        <width>15</width>
+        <weight>0.1300</weight>
+        <colour>White</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/n/e/new_pasbeswhite.jpg
+        </image>
+        <created_at>2016-02-12 11:00:58</created_at>
+        <updated_at>2017-04-26 13:10:51</updated_at>
+    </product>
+    <product>
+        <id>143</id>
+        <sku>PASCHICCABLACKL/XL</sku>
+        <matrix_id>1676</matrix_id>
+        <product_code>paschiccab</product_code>
+        <name>Passion Chicca Black BlackL/XL</name>
+        <description>
+            Seductive and playful lace ribbon-tie panties. Available in black (white and red versions also available). All products come packaged in their own branded boxes.
+        </description>
+        <description_html>
+            Seductive and playful lace ribbon-tie panties. Available in black (white and red versions also available). All products come packaged in their own branded boxes.
+        </description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>4.4900</price_rrp>
+        <price_trade>1.9900</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Chicca Black</product_range>
+        <material>90% Polyester/10% Elastane</material>
+        <size>L/XL</size>
+        <height>4</height>
+        <length>14</length>
+        <width>10</width>
+        <weight>0.0600</weight>
+        <colour>Black</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/pashicca_black.jpg
+        </image>
+        <created_at>2016-02-12 11:00:58</created_at>
+        <updated_at>2017-04-26 13:11:00</updated_at>
+    </product>
+    <product>
+        <id>144</id>
+        <sku>PASCHICCABLACKS/M</sku>
+        <matrix_id>1677</matrix_id>
+        <product_code>paschiccab</product_code>
+        <name>Passion Chicca Black BlackS/M</name>
+        <description>
+            Seductive and playful lace ribbon-tie panties. Available in black (white and red versions also available). All products come packaged in their own branded boxes.
+        </description>
+        <description_html>
+            Seductive and playful lace ribbon-tie panties. Available in black (white and red versions also available). All products come packaged in their own branded boxes.
+        </description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>4.4900</price_rrp>
+        <price_trade>1.9900</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Chicca Black</product_range>
+        <material>90% Polyester/10% Elastane</material>
+        <size>S/M</size>
+        <height>4</height>
+        <length>14</length>
+        <width>10</width>
+        <weight>0.0600</weight>
+        <colour>Black</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/pashicca_black_1.jpg
+        </image>
+        <created_at>2016-02-12 11:00:58</created_at>
+        <updated_at>2017-04-26 13:11:00</updated_at>
+    </product>
+    <product>
+        <id>145</id>
+        <sku>PASCHICCAREDL/XL</sku>
+        <matrix_id>1678</matrix_id>
+        <product_code>paschiccar</product_code>
+        <name>Passion Chicca Red RedL/XL</name>
+        <description>
+            Seductive and playful lace ribbon-tie panties. Available in red (white and black versions also available). All products come packaged in their own branded boxes.
+        </description>
+        <description_html>
+            Seductive and playful lace ribbon-tie panties. Available in red (white and black versions also available). All products come packaged in their own branded boxes.
+        </description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>4.4900</price_rrp>
+        <price_trade>1.9900</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Chicca Red</product_range>
+        <material>90% Polyester/10% Elastane</material>
+        <size>L/XL</size>
+        <height>4</height>
+        <length>14</length>
+        <width>10</width>
+        <weight>0.0600</weight>
+        <colour>Red</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/pashicca_red.jpg
+        </image>
+        <created_at>2016-02-12 11:00:58</created_at>
+        <updated_at>2017-04-26 13:11:00</updated_at>
+    </product>
+    <product>
+        <id>146</id>
+        <sku>PASCHICCAREDS/M</sku>
+        <matrix_id>1679</matrix_id>
+        <product_code>paschiccar</product_code>
+        <name>Passion Chicca Red RedS/M</name>
+        <description>
+            Seductive and playful lace ribbon-tie panties. Available in red (white and black versions also available). All products come packaged in their own branded boxes.
+        </description>
+        <description_html>
+            Seductive and playful lace ribbon-tie panties. Available in red (white and black versions also available). All products come packaged in their own branded boxes.
+        </description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>4.4900</price_rrp>
+        <price_trade>1.9900</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Chicca Red</product_range>
+        <material>90% Polyester/10% Elastane</material>
+        <size>S/M</size>
+        <height>4</height>
+        <length>14</length>
+        <width>10</width>
+        <weight>0.0600</weight>
+        <colour>Red</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/pashicca_red.jpg
+        </image>
+        <created_at>2016-02-12 11:00:58</created_at>
+        <updated_at>2017-04-26 13:11:00</updated_at>
+    </product>
+    <product>
+        <id>147</id>
+        <sku>PASCHICCAWHITEL/XL</sku>
+        <matrix_id>1680</matrix_id>
+        <product_code>paschiccaw</product_code>
+        <name>Passion Chicca White WhiteL/XL</name>
+        <description>
+            Seductive and playful lace ribbon-tie panties. Available in white (black and red versions also available). All products come packaged in their own branded boxes.
+        </description>
+        <description_html>
+            Seductive and playful lace ribbon-tie panties. Available in white (black and red versions also available). All products come packaged in their own branded boxes.
+        </description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>4.5900</price_rrp>
+        <price_trade>1.9900</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Chicca White</product_range>
+        <material>90% Polyester/10% Elastane</material>
+        <size>L/XL</size>
+        <height>4</height>
+        <length>14</length>
+        <width>10</width>
+        <weight>0.0600</weight>
+        <colour>White</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/pashicca_white.jpg
+        </image>
+        <created_at>2016-02-12 11:00:58</created_at>
+        <updated_at>2017-04-26 13:11:01</updated_at>
+    </product>
+    <product>
+        <id>148</id>
+        <sku>PASCHICCAWHITES/M</sku>
+        <matrix_id>1681</matrix_id>
+        <product_code>paschiccaw</product_code>
+        <name>Passion Chicca White WhiteS/M</name>
+        <description>
+            Seductive and playful lace ribbon-tie panties. Available in white (black and red versions also available). All products come packaged in their own branded boxes.
+        </description>
+        <description_html>
+            Seductive and playful lace ribbon-tie panties. Available in white (black and red versions also available). All products come packaged in their own branded boxes.
+        </description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>red</stock_level>
+        <price_rrp>4.5900</price_rrp>
+        <price_trade>1.9900</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Chicca White</product_range>
+        <material>90% Polyester/10% Elastane</material>
+        <size>S/M</size>
+        <height>4</height>
+        <length>14</length>
+        <width>10</width>
+        <weight>0.0600</weight>
+        <colour>White</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/pashicca_white.jpg
+        </image>
+        <created_at>2016-02-12 11:00:58</created_at>
+        <updated_at>2017-04-26 13:11:01</updated_at>
+    </product>
+    <product>
+        <id>149</id>
+        <sku>PASCHICABELLABLACKL/XL</sku>
+        <matrix_id>1682</matrix_id>
+        <product_code>paschicabb</product_code>
+        <name>Passion Chica Bella Black BlackL/XL</name>
+        <description>PASSION Chica Bella Black L/XL</description>
+        <description_html>PASSION Chica Bella Black L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>9.9900</price_rrp>
+        <price_trade>4.5500</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Chica Bella Black</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>4</height>
+        <length>14</length>
+        <width>10</width>
+        <weight>0.0600</weight>
+        <colour>Black</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/paschicabella_red_white.jpg
+        </image>
+        <created_at>2016-02-12 11:00:58</created_at>
+        <updated_at>2017-04-26 13:11:00</updated_at>
+    </product>
+    <product>
+        <id>150</id>
+        <sku>PASCHICABELLABLACKS/M</sku>
+        <matrix_id>1683</matrix_id>
+        <product_code>paschicabb</product_code>
+        <name>Passion Chica Bella Black BlackS/M</name>
+        <description>PASSION Chica Bella Black S/M</description>
+        <description_html>PASSION Chica Bella Black S/M</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>9.9900</price_rrp>
+        <price_trade>4.5500</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Chica Bella Black</product_range>
+        <material>EMPTY</material>
+        <size>S/M</size>
+        <height>4</height>
+        <length>14</length>
+        <width>10</width>
+        <weight>0.0600</weight>
+        <colour>Black</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/paschicabella_red_white.jpg
+        </image>
+        <created_at>2016-02-12 11:00:58</created_at>
+        <updated_at>2017-04-26 13:11:00</updated_at>
+    </product>
+    <product>
+        <id>151</id>
+        <sku>PASCHICABELLAREDL/XL</sku>
+        <matrix_id>1684</matrix_id>
+        <product_code>paschicabr</product_code>
+        <name>Passion Chica Bella Red RedL/XL</name>
+        <description>PASSION Chica Bella Red L/XL</description>
+        <description_html>PASSION Chica Bella Red L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>9.9900</price_rrp>
+        <price_trade>4.5500</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Chica Bella Red</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>4</height>
+        <length>14</length>
+        <width>10</width>
+        <weight>0.0600</weight>
+        <colour>Red</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/paschicabella_red_white.jpg
+        </image>
+        <created_at>2016-02-12 11:00:58</created_at>
+        <updated_at>2017-04-26 13:11:00</updated_at>
+    </product>
+    <product>
+        <id>153</id>
+        <sku>PASCHICABELLAWHITEL/XL</sku>
+        <matrix_id>1686</matrix_id>
+        <product_code>paschicabw</product_code>
+        <name>Passion Chica Bella White WhiteL/XL</name>
+        <description>PASSION Chica Bella White L/XL</description>
+        <description_html>PASSION Chica Bella White L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>9.9900</price_rrp>
+        <price_trade>4.5500</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Chica Bella White</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>4</height>
+        <length>14</length>
+        <width>10</width>
+        <weight>0.0600</weight>
+        <colour>White</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/paschicabella_red_white.jpg
+        </image>
+        <created_at>2016-02-12 11:00:58</created_at>
+        <updated_at>2017-04-26 13:11:00</updated_at>
+    </product>
+    <product>
+        <id>154</id>
+        <sku>PASCHICABELLAWHITES/M</sku>
+        <matrix_id>1687</matrix_id>
+        <product_code>paschicabw</product_code>
+        <name>Passion Chica Bella White WhiteS/M</name>
+        <description>PASSION Chica Bella White S/M</description>
+        <description_html>PASSION Chica Bella White S/M</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>9.9900</price_rrp>
+        <price_trade>4.5500</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Chica Bella White</product_range>
+        <material>EMPTY</material>
+        <size>S/M</size>
+        <height>4</height>
+        <length>14</length>
+        <width>10</width>
+        <weight>0.0600</weight>
+        <colour>White</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/paschicabella_red_white.jpg
+        </image>
+        <created_at>2016-02-12 11:00:58</created_at>
+        <updated_at>2017-04-26 13:11:00</updated_at>
+    </product>
+    <product>
+        <id>157</id>
+        <sku>PASDALIAL/XL</sku>
+        <matrix_id>1700</matrix_id>
+        <product_code>pasdalia</product_code>
+        <name>Passion Dalia BlackL/XL</name>
+        <description>PASSION Dalia L/XL</description>
+        <description_html>PASSION Dalia L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>6.4900</price_rrp>
+        <price_trade>2.8700</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Dalia</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.0600</weight>
+        <colour>Black</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/pasdalia_sale.jpg
+        </image>
+        <created_at>2016-02-12 11:00:58</created_at>
+        <updated_at>2017-04-26 13:11:02</updated_at>
+    </product>
+    <product>
+        <id>163</id>
+        <sku>PASELLISWHITEONESIZE</sku>
+        <matrix_id>1713</matrix_id>
+        <product_code>paselliswht</product_code>
+        <name>Passion Ellis White WhiteOne Size</name>
+        <description>PASSION Ellis Bodystocking White One Size</description>
+        <description_html>PASSION Ellis Bodystocking White One Size</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>9.9900</price_rrp>
+        <price_trade>4.6200</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Ellis White</product_range>
+        <material>EMPTY</material>
+        <size>One Size</size>
+        <height>4</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.0900</weight>
+        <colour>White</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/pasellis_white_sale.jpg
+        </image>
+        <created_at>2016-02-12 11:00:59</created_at>
+        <updated_at>2017-04-26 13:11:03</updated_at>
+    </product>
+    <product>
+        <id>169</id>
+        <sku>PASFEMIWHITEL/XL</sku>
+        <matrix_id>1722</matrix_id>
+        <product_code>pasfemiwht</product_code>
+        <name>Passion Femi White WhiteL/XL</name>
+        <description>PASSION Femi White L/XL</description>
+        <description_html>PASSION Femi White L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>26.9900</price_rrp>
+        <price_trade>12.4100</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Femi White</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>4</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.1800</weight>
+        <colour>White</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/n/e/new_pasfemiwhite.jpg
+        </image>
+        <created_at>2016-02-12 11:00:59</created_at>
+        <updated_at>2017-04-26 13:11:06</updated_at>
+    </product>
+    <product>
+        <id>174</id>
+        <sku>PASFLOWERYBLACKS/M</sku>
+        <matrix_id>1727</matrix_id>
+        <product_code>pasflowblk</product_code>
+        <name>Passion Flowery Black BlackS/M</name>
+        <description>PASSION Flowery Black S/M</description>
+        <description_html>PASSION Flowery Black S/M</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>16.9900</price_rrp>
+        <price_trade>7.7300</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Flowery Black</product_range>
+        <material>EMPTY</material>
+        <size>S/M</size>
+        <height>2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.1100</weight>
+        <colour>Black</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/pasflowery_black_rose.jpg
+        </image>
+        <created_at>2016-02-12 11:00:59</created_at>
+        <updated_at>2017-04-26 13:11:06</updated_at>
+    </product>
+    <product>
+        <id>185</id>
+        <sku>PASHANACHEMISEBLACKL/XL</sku>
+        <matrix_id>1749</matrix_id>
+        <product_code>pashanachblk</product_code>
+        <name>Passion Hana Chemise Black BlackL/XL</name>
+        <description>
+            Sumptuous figure hugging chemise in black stretchy material with sexy see through floral lace panel to the front and bust. Available in black. All products come packaged in their own branded boxes.
+        </description>
+        <description_html>
+            Sumptuous figure hugging chemise in black stretchy material with sexy see through floral lace panel to the front and bust. Available in black. All products come packaged in their own branded boxes.
+        </description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>24.9900</price_rrp>
+        <price_trade>12.3500</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Hana Chemise Black</product_range>
+        <material>70% Polyester/30% Poliamid</material>
+        <size>L/XL</size>
+        <height>4</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.1500</weight>
+        <colour>Black</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/n/e/new_pashanablack.jpg
+        </image>
+        <created_at>2016-02-12 11:00:59</created_at>
+        <updated_at>2017-04-26 13:11:09</updated_at>
+    </product>
+    <product>
+        <id>186</id>
+        <sku>PASHANACHEMISEBLACKS/M</sku>
+        <matrix_id>1750</matrix_id>
+        <product_code>pashanachblk</product_code>
+        <name>Passion Hana Chemise Black BlackS/M</name>
+        <description>
+            Sumptuous figure hugging chemise in black stretchy material with sexy see through floral lace panel to the front and bust. Available in black. All products come packaged in their own branded boxes.
+        </description>
+        <description_html>
+            Sumptuous figure hugging chemise in black stretchy material with sexy see through floral lace panel to the front and bust. Available in black. All products come packaged in their own branded boxes.
+        </description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>24.9900</price_rrp>
+        <price_trade>12.3500</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Hana Chemise Black</product_range>
+        <material>70% Polyester/30% Poliamid</material>
+        <size>S/M</size>
+        <height>4</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.1500</weight>
+        <colour>Black</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/n/e/new_pashanablack.jpg
+        </image>
+        <created_at>2016-02-12 11:00:59</created_at>
+        <updated_at>2017-04-26 13:11:09</updated_at>
+    </product>
+    <product>
+        <id>189</id>
+        <sku>PASHANACORSETBLACKL/XL</sku>
+        <matrix_id>1753</matrix_id>
+        <product_code>pashanacorblk</product_code>
+        <name>Passion Hana Corset Black BlackL/XL</name>
+        <description>PASSION Hana Corset Black L/XL</description>
+        <description_html>PASSION Hana Corset Black L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>28.9900</price_rrp>
+        <price_trade>13.0200</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Hana Corset Black</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>4</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.1000</weight>
+        <colour>Black</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/n/e/new_pashanacorsetblack.jpg
+        </image>
+        <created_at>2016-02-12 11:00:59</created_at>
+        <updated_at>2017-04-26 13:11:09</updated_at>
+    </product>
+    <product>
+        <id>196</id>
+        <sku>PASIVYBLACKL/XL</sku>
+        <matrix_id>1766</matrix_id>
+        <product_code>pasivyblk</product_code>
+        <name>Passion Ivy Black BlackL/XL</name>
+        <description>PASSION Ivy Black L/XL</description>
+        <description_html>PASSION Ivy Black L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>8.9900</price_rrp>
+        <price_trade>4.0000</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Ivy Black</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.0700</weight>
+        <colour>Black</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/pasivy_black_sale.jpg
+        </image>
+        <created_at>2016-02-12 11:00:59</created_at>
+        <updated_at>2017-04-26 13:11:10</updated_at>
+    </product>
+    <product>
+        <id>197</id>
+        <sku>PASIVYBLACKS/M</sku>
+        <matrix_id>1767</matrix_id>
+        <product_code>pasivyblk</product_code>
+        <name>Passion Ivy Black BlackS/M</name>
+        <description>PASSION Ivy Black S/M</description>
+        <description_html>PASSION Ivy Black S/M</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>8.9900</price_rrp>
+        <price_trade>4.0000</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Ivy Black</product_range>
+        <material>EMPTY</material>
+        <size>S/M</size>
+        <height>2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.0700</weight>
+        <colour>Black</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/pasivy_black_sale.jpg
+        </image>
+        <created_at>2016-02-12 11:01:00</created_at>
+        <updated_at>2017-04-26 13:11:10</updated_at>
+    </product>
+    <product>
+        <id>198</id>
+        <sku>PASIVYREDL/XL</sku>
+        <matrix_id>1768</matrix_id>
+        <product_code>pasivyrd</product_code>
+        <name>Passion Ivy Red RedL/XL</name>
+        <description>PASSION Ivy Red L/XL</description>
+        <description_html>PASSION Ivy Red L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>12.9900</price_rrp>
+        <price_trade>6.0000</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Ivy Red</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.0700</weight>
+        <colour>Red</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/pasivy_red.jpg
+        </image>
+        <created_at>2016-02-12 11:01:00</created_at>
+        <updated_at>2017-04-26 13:11:10</updated_at>
+    </product>
+    <product>
+        <id>201</id>
+        <sku>PASIVYWHITES/M</sku>
+        <matrix_id>1771</matrix_id>
+        <product_code>pasivywht</product_code>
+        <name>Passion Ivy White WhiteS/M</name>
+        <description>PASSION Ivy Whie S/M</description>
+        <description_html>PASSION Ivy Whie S/M</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>yellow</stock_level>
+        <price_rrp>12.9900</price_rrp>
+        <price_trade>6.0000</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Ivy White</product_range>
+        <material>EMPTY</material>
+        <size>S/M</size>
+        <height>2</height>
+        <length>1</length>
+        <width>15</width>
+        <weight>0.0700</weight>
+        <colour>White</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/pasivy_white.jpg
+        </image>
+        <created_at>2016-02-12 11:01:00</created_at>
+        <updated_at>2017-04-26 13:11:11</updated_at>
+    </product>
+    <product>
+        <id>204</id>
+        <sku>PASKALYPSOSETBLACKL/XL</sku>
+        <matrix_id>1780</matrix_id>
+        <product_code>paskalstblk</product_code>
+        <name>Passion Kalypso Set Black BlackL/XL</name>
+        <description>PASSION Kalypso Set Black L/XL</description>
+        <description_html>PASSION Kalypso Set Black L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>19.9900</price_rrp>
+        <price_trade>9.5800</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Kalypso Set Black</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>4</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.1300</weight>
+        <colour>Black</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/n/e/new_paskalypsosetblack.jpg
+        </image>
+        <created_at>2016-02-12 11:01:00</created_at>
+        <updated_at>2017-04-26 13:11:12</updated_at>
+    </product>
+    <product>
+        <id>206</id>
+        <sku>PASKALYPSOSETWHITEL/XL</sku>
+        <matrix_id>1782</matrix_id>
+        <product_code>paskalstwht</product_code>
+        <name>Passion Kalypso Set White WhiteL/XL</name>
+        <description>PASSION Kalypso Set White L/XL</description>
+        <description_html>PASSION Kalypso Set White L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>yellow</stock_level>
+        <price_rrp>19.9900</price_rrp>
+        <price_trade>9.5800</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Kalypso Set White</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>4</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.1300</weight>
+        <colour>White</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/n/e/new_paskalypsosetwhite.jpg
+        </image>
+        <created_at>2016-02-12 11:01:00</created_at>
+        <updated_at>2017-04-26 13:11:13</updated_at>
+    </product>
+    <product>
+        <id>210</id>
+        <sku>PASKALYPSOPANTIESBLACKL/XL</sku>
+        <matrix_id>1786</matrix_id>
+        <product_code>paskalpanblk</product_code>
+        <name>Passion Kalypso Panties Black BlackL/XL</name>
+        <description>PASSION Kalypso Panties Black L/XL</description>
+        <description_html>PASSION Kalypso Panties Black L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>9.9900</price_rrp>
+        <price_trade>4.5500</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Kalypso Panties Black</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>4</height>
+        <length>14</length>
+        <width>10</width>
+        <weight>0.0300</weight>
+        <colour>Black</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/n/e/new_paskalypsoblack.jpg
+        </image>
+        <created_at>2016-02-12 11:01:00</created_at>
+        <updated_at>2017-04-26 13:11:12</updated_at>
+    </product>
+    <product>
+        <id>211</id>
+        <sku>PASKALYPSOPANTIESBLACKS/M</sku>
+        <matrix_id>1787</matrix_id>
+        <product_code>paskalpanblk</product_code>
+        <name>Passion Kalypso Panties Black BlackS/M</name>
+        <description>PASSION Kalypso Panties Black S/M</description>
+        <description_html>PASSION Kalypso Panties Black S/M</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>9.9900</price_rrp>
+        <price_trade>4.5500</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Kalypso Panties Black</product_range>
+        <material>EMPTY</material>
+        <size>S/M</size>
+        <height>4</height>
+        <length>14</length>
+        <width>10</width>
+        <weight>0.0300</weight>
+        <colour>Black</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/n/e/new_paskalypsoblack.jpg
+        </image>
+        <created_at>2016-02-12 11:01:00</created_at>
+        <updated_at>2017-04-26 13:11:12</updated_at>
+    </product>
+    <product>
+        <id>212</id>
+        <sku>PASKALYPSOPANTIESWHITEL/XL</sku>
+        <matrix_id>1788</matrix_id>
+        <product_code>paskalpanwht</product_code>
+        <name>Passion Kalypso Panties White WhiteL/XL</name>
+        <description>PASSION Kalypso Panties White L/XL</description>
+        <description_html>PASSION Kalypso Panties White L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>yellow</stock_level>
+        <price_rrp>9.9900</price_rrp>
+        <price_trade>4.5500</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Kalypso Panties White</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>4</height>
+        <length>14</length>
+        <width>10</width>
+        <weight>0.0300</weight>
+        <colour>White</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/n/e/new_paskalypsowhite.jpg
+        </image>
+        <created_at>2016-02-12 11:01:00</created_at>
+        <updated_at>2017-04-26 13:11:12</updated_at>
+    </product>
+    <product>
+        <id>213</id>
+        <sku>PASKALYPSOPANTIESWHITES/M</sku>
+        <matrix_id>1789</matrix_id>
+        <product_code>paskalpanwht</product_code>
+        <name>Passion Kalypso Panties White WhiteS/M</name>
+        <description>PASSION Kalypso Panties White S/M</description>
+        <description_html>PASSION Kalypso Panties White S/M</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>9.9900</price_rrp>
+        <price_trade>4.5500</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Kalypso Panties White</product_range>
+        <material>EMPTY</material>
+        <size>S/M</size>
+        <height>4</height>
+        <length>14</length>
+        <width>10</width>
+        <weight>0.0300</weight>
+        <colour>White</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/n/e/new_paskalypsowhite.jpg
+        </image>
+        <created_at>2016-02-12 11:01:00</created_at>
+        <updated_at>2017-04-26 13:11:12</updated_at>
+    </product>
+    <product>
+        <id>214</id>
+        <sku>PASKALYPSOPANTIESPINKL/XL</sku>
+        <matrix_id>1790</matrix_id>
+        <product_code>paskalpanpnk</product_code>
+        <name>Passion Kalypso Panties Pink PinkL/XL</name>
+        <description>PASSION Kalypso Panties Pink L/XL</description>
+        <description_html>PASSION Kalypso Panties Pink L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>9.9900</price_rrp>
+        <price_trade>4.5500</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Kalypso Panties Pink</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>4</height>
+        <length>14</length>
+        <width>10</width>
+        <weight>0.0300</weight>
+        <colour>Pink</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/n/e/new_paskalypsopink.jpg
+        </image>
+        <created_at>2016-02-12 11:01:00</created_at>
+        <updated_at>2017-04-26 13:11:12</updated_at>
+    </product>
+    <product>
+        <id>215</id>
+        <sku>PASKALYPSOPANTIESPINKS/M</sku>
+        <matrix_id>1791</matrix_id>
+        <product_code>paskalpanpnk</product_code>
+        <name>Passion Kalypso Panties Pink PinkS/M</name>
+        <description>PASSION Kalypso Panties Pink S/M</description>
+        <description_html>PASSION Kalypso Panties Pink S/M</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>9.9900</price_rrp>
+        <price_trade>4.5500</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Kalypso Panties Pink</product_range>
+        <material>EMPTY</material>
+        <size>S/M</size>
+        <height>4</height>
+        <length>14</length>
+        <width>10</width>
+        <weight>0.0300</weight>
+        <colour>Pink</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/n/e/new_paskalypsopink.jpg
+        </image>
+        <created_at>2016-02-12 11:01:00</created_at>
+        <updated_at>2017-04-26 13:11:12</updated_at>
+    </product>
+    <product>
+        <id>216</id>
+        <sku>PASKISSKISSBLACKL/XL</sku>
+        <matrix_id>1796</matrix_id>
+        <product_code>paskissblk</product_code>
+        <name>Passion Kiss Kiss Black BlackL/XL</name>
+        <description>PASSION Kiss Kiss Black L/XL</description>
+        <description_html>PASSION Kiss Kiss Black L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>5.5000</price_rrp>
+        <price_trade>2.5000</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Kiss Kiss Black</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.0500</weight>
+        <colour>Black</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/paskisskiss_black.jpg
+        </image>
+        <created_at>2016-02-12 11:01:00</created_at>
+        <updated_at>2017-04-26 13:11:13</updated_at>
+    </product>
+    <product>
+        <id>217</id>
+        <sku>PASKISSKISSBLACKS/M</sku>
+        <matrix_id>1797</matrix_id>
+        <product_code>paskissblk</product_code>
+        <name>Passion Kiss Kiss Black BlackS/M</name>
+        <description>PASSION Kiss Kiss Black S/M</description>
+        <description_html>PASSION Kiss Kiss Black S/M</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>5.5000</price_rrp>
+        <price_trade>2.5000</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Kiss Kiss Black</product_range>
+        <material>EMPTY</material>
+        <size>S/M</size>
+        <height>2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.0500</weight>
+        <colour>Black</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/paskisskiss_black.jpg
+        </image>
+        <created_at>2016-02-12 11:01:00</created_at>
+        <updated_at>2017-04-26 13:11:13</updated_at>
+    </product>
+    <product>
+        <id>218</id>
+        <sku>PASKISSKISSWHITEL/XL</sku>
+        <matrix_id>1798</matrix_id>
+        <product_code>paskisswht</product_code>
+        <name>Passion Kiss Kiss White WhiteL/XL</name>
+        <description>PASSION Kiss Kiss White L/XL</description>
+        <description_html>PASSION Kiss Kiss White L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>5.5000</price_rrp>
+        <price_trade>2.5000</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Kiss Kiss White</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.0500</weight>
+        <colour>White</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/paskisskiss_white.jpg
+        </image>
+        <created_at>2016-02-12 11:01:00</created_at>
+        <updated_at>2017-04-26 13:11:14</updated_at>
+    </product>
+    <product>
+        <id>219</id>
+        <sku>PASKISSKISSWHITES/M</sku>
+        <matrix_id>1799</matrix_id>
+        <product_code>paskisswht</product_code>
+        <name>Passion Kiss Kiss White WhiteS/M</name>
+        <description>PASSION Kiss Kiss White S/M</description>
+        <description_html>PASSION Kiss Kiss White S/M</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>5.5000</price_rrp>
+        <price_trade>2.5000</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Kiss Kiss White</product_range>
+        <material>EMPTY</material>
+        <size>S/M</size>
+        <height>2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.0500</weight>
+        <colour>White</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/paskisskiss_white.jpg
+        </image>
+        <created_at>2016-02-12 11:01:00</created_at>
+        <updated_at>2017-04-26 13:11:14</updated_at>
+    </product>
+    <product>
+        <id>220</id>
+        <sku>PASKISSKISSREDL/XL</sku>
+        <matrix_id>1800</matrix_id>
+        <product_code>paskissrd</product_code>
+        <name>Passion Kiss Kiss Red RedL/XL</name>
+        <description>PASSION Kiss Kiss Red L/XL</description>
+        <description_html>PASSION Kiss Kiss Red L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>5.5000</price_rrp>
+        <price_trade>2.5000</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Kiss Kiss Red</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.0500</weight>
+        <colour>Red</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/paskisskiss_white.jpg
+        </image>
+        <created_at>2016-02-12 11:01:00</created_at>
+        <updated_at>2017-04-26 13:11:14</updated_at>
+    </product>
+    <product>
+        <id>221</id>
+        <sku>PASKISSKISSREDS/M</sku>
+        <matrix_id>1801</matrix_id>
+        <product_code>paskissrd</product_code>
+        <name>Passion Kiss Kiss Red RedS/M</name>
+        <description>PASSION Kiss Kiss Red S/M</description>
+        <description_html>PASSION Kiss Kiss Red S/M</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>5.5000</price_rrp>
+        <price_trade>2.5000</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Kiss Kiss Red</product_range>
+        <material>EMPTY</material>
+        <size>S/M</size>
+        <height>2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.0500</weight>
+        <colour>Red</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/paskisskiss_white.jpg
+        </image>
+        <created_at>2016-02-12 11:01:00</created_at>
+        <updated_at>2017-04-26 13:11:14</updated_at>
+    </product>
+    <product>
+        <id>222</id>
+        <sku>PASMADNESSSILVERL/XL</sku>
+        <matrix_id>1818</matrix_id>
+        <product_code>pasmadsilv</product_code>
+        <name>Passion Madness Silver SilverL/XL</name>
+        <description>PASSION Madness Silver L/XL (D)</description>
+        <description_html>PASSION Madness Silver L/XL (D)</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>19.4900</price_rrp>
+        <price_trade>8.8100</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Madness Silver</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>4</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.1300</weight>
+        <colour>Silver</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/pasmadness_silver_sale.jpg
+        </image>
+        <created_at>2016-02-12 11:01:00</created_at>
+        <updated_at>2017-04-26 13:11:16</updated_at>
+    </product>
+    <product>
+        <id>224</id>
+        <sku>PASMAIDL/XL</sku>
+        <matrix_id>1820</matrix_id>
+        <product_code>pasmaid</product_code>
+        <name>Passion Maid Black/WhiteL/XL</name>
+        <description>PASSION Maid L/XL</description>
+        <description_html>PASSION Maid L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>16.9900</price_rrp>
+        <price_trade>7.6400</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Maid</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>4</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.1100</weight>
+        <colour>Black/White</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/pasmaid_sale.jpg
+        </image>
+        <created_at>2016-02-12 11:01:00</created_at>
+        <updated_at>2017-04-26 13:11:16</updated_at>
+    </product>
+    <product>
+        <id>226</id>
+        <sku>PASMAIDLOVEL/XL</sku>
+        <matrix_id>1822</matrix_id>
+        <product_code>pasmaidlov</product_code>
+        <name>Passion Maid Love Black/WhiteL/XL</name>
+        <description>PASSION Maid Love L/XL</description>
+        <description_html>PASSION Maid Love L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>16.9900</price_rrp>
+        <price_trade>7.6400</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Maid Love</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>4</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.1000</weight>
+        <colour>Black/White</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/pasmaidlove_sale.jpg
+        </image>
+        <created_at>2016-02-12 11:01:00</created_at>
+        <updated_at>2017-04-26 13:11:16</updated_at>
+    </product>
+    <product>
+        <id>234</id>
+        <sku>PASMOONLIGHTBLACKS/M</sku>
+        <matrix_id>1860</matrix_id>
+        <product_code>pasmoonlblk</product_code>
+        <name>Passion Moonlight Black BlackS/M</name>
+        <description>PASSION Moonlight Black S/M</description>
+        <description_html>PASSION Moonlight Black S/M</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>14.9900</price_rrp>
+        <price_trade>6.9600</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Moonlight Black</product_range>
+        <material>EMPTY</material>
+        <size>S/M</size>
+        <height>2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.1100</weight>
+        <colour>Black</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/paqmoonlight_white_black.jpg
+        </image>
+        <created_at>2016-02-12 11:01:01</created_at>
+        <updated_at>2017-04-26 13:11:20</updated_at>
+    </product>
+    <product>
+        <id>256</id>
+        <sku>PASREMIBLACKL/XL</sku>
+        <matrix_id>1896</matrix_id>
+        <product_code>pasremiblk</product_code>
+        <name>Passion Remi Black BlackL/XL</name>
+        <description>PASSION Remi Black L/XL</description>
+        <description_html>PASSION Remi Black L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>4.9900</price_rrp>
+        <price_trade>2.3100</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Remi Black</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>4</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.0700</weight>
+        <colour>Black</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/pasremi_black.jpg
+        </image>
+        <created_at>2016-02-12 11:01:02</created_at>
+        <updated_at>2017-04-26 13:11:24</updated_at>
+    </product>
+    <product>
+        <id>257</id>
+        <sku>PASREMIBLACKS/M</sku>
+        <matrix_id>1897</matrix_id>
+        <product_code>pasremiblk</product_code>
+        <name>Passion Remi Black BlackS/M</name>
+        <description>PASSION Remi Black S/M</description>
+        <description_html>PASSION Remi Black S/M</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>4.9900</price_rrp>
+        <price_trade>2.3100</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Remi Black</product_range>
+        <material>EMPTY</material>
+        <size>S/M</size>
+        <height>4</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.0700</weight>
+        <colour>Black</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/pasremi_black.jpg
+        </image>
+        <created_at>2016-02-12 11:01:02</created_at>
+        <updated_at>2017-04-26 13:11:24</updated_at>
+    </product>
+    <product>
+        <id>260</id>
+        <sku>PASREMIREDL/XL</sku>
+        <matrix_id>1900</matrix_id>
+        <product_code>pasremird</product_code>
+        <name>Passion Remi Red RedL/XL</name>
+        <description>PASSION Remi Red L/XL</description>
+        <description_html>PASSION Remi Red L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>4.9900</price_rrp>
+        <price_trade>2.3100</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Remi Red</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>4</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.0700</weight>
+        <colour>Red</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/pasremi_red.jpg
+        </image>
+        <created_at>2016-02-12 11:01:02</created_at>
+        <updated_at>2017-04-26 13:11:24</updated_at>
+    </product>
+    <product>
+        <id>262</id>
+        <sku>PASSABINEBLACKL/XL</sku>
+        <matrix_id>1902</matrix_id>
+        <product_code>passabin</product_code>
+        <name>Passion Sabine BlackL/XL</name>
+        <description>PASSION Sabine Black L/XL</description>
+        <description_html>PASSION Sabine Black L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>4.9900</price_rrp>
+        <price_trade>2.3100</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Sabine</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>4</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.0700</weight>
+        <colour>Black</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/passabine.jpg
+        </image>
+        <created_at>2016-02-12 11:01:02</created_at>
+        <updated_at>2017-04-26 13:11:25</updated_at>
+    </product>
+    <product>
+        <id>264</id>
+        <sku>PASSECRETBLACKL/XL</sku>
+        <matrix_id>1908</matrix_id>
+        <product_code>passecblk</product_code>
+        <name>Passion Secret Black BlackL/XL</name>
+        <description>PASSION Secret Black L/XL</description>
+        <description_html>PASSION Secret Black L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>4.9900</price_rrp>
+        <price_trade>2.3100</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Secret Black</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.0500</weight>
+        <colour>Black</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/passecret_red_black.jpg
+        </image>
+        <created_at>2016-02-12 11:01:02</created_at>
+        <updated_at>2017-04-26 13:11:27</updated_at>
+    </product>
+    <product>
+        <id>265</id>
+        <sku>PASSECRETBLACKS/M</sku>
+        <matrix_id>1909</matrix_id>
+        <product_code>passecblk</product_code>
+        <name>Passion Secret Black BlackS/M</name>
+        <description>PASSION Secret Black S/M</description>
+        <description_html>PASSION Secret Black S/M</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>4.9900</price_rrp>
+        <price_trade>2.3100</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Secret Black</product_range>
+        <material>EMPTY</material>
+        <size>S/M</size>
+        <height>2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.0500</weight>
+        <colour>Black</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/passecret_red_black.jpg
+        </image>
+        <created_at>2016-02-12 11:01:02</created_at>
+        <updated_at>2017-04-26 13:11:27</updated_at>
+    </product>
+    <product>
+        <id>266</id>
+        <sku>PASSECRETWHITEL/XL</sku>
+        <matrix_id>1910</matrix_id>
+        <product_code>passecwht</product_code>
+        <name>Passion Secret White WhiteL/XL</name>
+        <description>PASSION Secret White L/XL</description>
+        <description_html>PASSION Secret White L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>4.9900</price_rrp>
+        <price_trade>2.3100</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Secret White</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.0500</weight>
+        <colour>White</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/passecret_white_back.jpg
+        </image>
+        <created_at>2016-02-12 11:01:02</created_at>
+        <updated_at>2017-04-26 13:11:27</updated_at>
+    </product>
+    <product>
+        <id>267</id>
+        <sku>PASSECRETWHITES/M</sku>
+        <matrix_id>1911</matrix_id>
+        <product_code>passecwht</product_code>
+        <name>Passion Secret White WhiteS/M</name>
+        <description>PASSION Secret White S/M</description>
+        <description_html>PASSION Secret White S/M</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>4.9900</price_rrp>
+        <price_trade>2.3100</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Secret White</product_range>
+        <material>EMPTY</material>
+        <size>S/M</size>
+        <height>2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.0500</weight>
+        <colour>White</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/passecret_white_back.jpg
+        </image>
+        <created_at>2016-02-12 11:01:02</created_at>
+        <updated_at>2017-04-26 13:11:27</updated_at>
+    </product>
+    <product>
+        <id>268</id>
+        <sku>PASSECRETREDL/XL</sku>
+        <matrix_id>1912</matrix_id>
+        <product_code>passecrd</product_code>
+        <name>Passion Secret Red RedL/XL</name>
+        <description>PASSION Secret Red L/XL</description>
+        <description_html>PASSION Secret Red L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>yellow</stock_level>
+        <price_rrp>4.9900</price_rrp>
+        <price_trade>2.3100</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Secret Red</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.0500</weight>
+        <colour>Red</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/passecret_red_black.jpg
+        </image>
+        <created_at>2016-02-12 11:01:02</created_at>
+        <updated_at>2017-04-26 13:11:27</updated_at>
+    </product>
+    <product>
+        <id>274</id>
+        <sku>PASSONIAREDL/XL</sku>
+        <matrix_id>1918</matrix_id>
+        <product_code>passonia</product_code>
+        <name>Passion Sonia RedL/XL</name>
+        <description>PASSION Sonia Red L/XL</description>
+        <description_html>PASSION Sonia Red L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>yellow</stock_level>
+        <price_rrp>16.9900</price_rrp>
+        <price_trade>7.7300</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Sonia</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>4</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.0800</weight>
+        <colour>Red</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/passonia.jpg
+        </image>
+        <created_at>2016-02-12 11:01:02</created_at>
+        <updated_at>2017-04-26 13:11:29</updated_at>
+    </product>
+    <product>
+        <id>275</id>
+        <sku>PASSONIAREDS/M</sku>
+        <matrix_id>1919</matrix_id>
+        <product_code>passonia</product_code>
+        <name>Passion Sonia RedS/M</name>
+        <description>PASSION Sonia Red S/M</description>
+        <description_html>PASSION Sonia Red S/M</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>16.9900</price_rrp>
+        <price_trade>7.7300</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Sonia</product_range>
+        <material>EMPTY</material>
+        <size>S/M</size>
+        <height>4</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.0800</weight>
+        <colour>Red</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/passonia.jpg
+        </image>
+        <created_at>2016-02-12 11:01:02</created_at>
+        <updated_at>2017-04-26 13:11:29</updated_at>
+    </product>
+    <product>
+        <id>276</id>
+        <sku>PASSWEETYL/XL</sku>
+        <matrix_id>1920</matrix_id>
+        <product_code>passweety</product_code>
+        <name>Passion Sweety Black/WhiteL/XL</name>
+        <description>PASSION Sweety L/XL</description>
+        <description_html>PASSION Sweety L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>yellow</stock_level>
+        <price_rrp>18.9900</price_rrp>
+        <price_trade>8.4600</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Sweety</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>4</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.1000</weight>
+        <colour>Black/White</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/passweety.jpg
+        </image>
+        <created_at>2016-02-12 11:01:02</created_at>
+        <updated_at>2017-04-26 13:11:29</updated_at>
+    </product>
+    <product>
+        <id>282</id>
+        <sku>PASWILDWHITEL/XL</sku>
+        <matrix_id>1936</matrix_id>
+        <product_code>paswildwht</product_code>
+        <name>Passion Wild White WhiteL/XL</name>
+        <description>PASSION Wild White L/XL</description>
+        <description_html>PASSION Wild White L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>5.9900</price_rrp>
+        <price_trade>2.7500</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Wild White</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.0500</weight>
+        <colour>White</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/paswild_white_black_sale.jpg
+        </image>
+        <created_at>2016-02-12 11:01:02</created_at>
+        <updated_at>2017-04-26 13:11:33</updated_at>
+    </product>
+    <product>
+        <id>294</id>
+        <sku>PASATONWHITEL/XL</sku>
+        <matrix_id>1948</matrix_id>
+        <product_code>pasatonwht</product_code>
+        <name>Passion Aton White WhiteL/XL</name>
+        <description>PASSION Aton White L/XL</description>
+        <description_html>PASSION Aton White L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>15.9900</price_rrp>
+        <price_trade>7.1300</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Aton White</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>4</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.1700</weight>
+        <colour>White</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/pas_aton_white.jpg
+        </image>
+        <created_at>2016-02-12 11:01:03</created_at>
+        <updated_at>2017-04-26 13:10:49</updated_at>
+    </product>
+    <product>
+        <id>300</id>
+        <sku>PASCARLEYBLACKL/XL</sku>
+        <matrix_id>1954</matrix_id>
+        <product_code>pascarlyblk</product_code>
+        <name>Passion Carly Black BlackL/XL</name>
+        <description>PASSION Carley Black L/XL</description>
+        <description_html>PASSION Carley Black L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>22.9900</price_rrp>
+        <price_trade>10.7000</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Carly Black</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>4</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.1500</weight>
+        <colour>Black</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/n/e/new_pascarleyblack.jpg
+        </image>
+        <created_at>2016-02-12 11:01:03</created_at>
+        <updated_at>2017-04-26 13:10:58</updated_at>
+    </product>
+    <product>
+        <id>339</id>
+        <sku>PASNOEMIBIKINIBLACKL/XL</sku>
+        <matrix_id>2015</matrix_id>
+        <product_code>pasnoemibblk</product_code>
+        <name>Passion Noemi Bikini Black BlackL/XL</name>
+        <description>PASSION Noemi Bikini Black L/XL</description>
+        <description_html>PASSION Noemi Bikini Black L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>13.9900</price_rrp>
+        <price_trade>6.0800</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Noemi Bikini Black</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.0700</weight>
+        <colour>Black</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/n/o/noemi_bikini_black.jpg
+        </image>
+        <created_at>2016-02-12 11:01:04</created_at>
+        <updated_at>2017-04-26 13:11:21</updated_at>
+    </product>
+    <product>
+        <id>349</id>
+        <sku>PASWIKIBLACKL/XL</sku>
+        <matrix_id>2030</matrix_id>
+        <product_code>paswikiblk</product_code>
+        <name>Passion Wiki Black BlackL/XL</name>
+        <description>PASSION Wiki Black L/XL</description>
+        <description_html>PASSION Wiki Black L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>31.9900</price_rrp>
+        <price_trade>8.6800</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Wiki Black</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>4</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.1000</weight>
+        <colour>Black</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/paswiki_black.jpg
+        </image>
+        <created_at>2016-02-12 11:01:04</created_at>
+        <updated_at>2017-04-26 13:11:33</updated_at>
+    </product>
+    <product>
+        <id>350</id>
+        <sku>PASWIKIBLACKS/M</sku>
+        <matrix_id>2031</matrix_id>
+        <product_code>paswikiblk</product_code>
+        <name>Passion Wiki Black BlackS/M</name>
+        <description>PASSION Wiki Black S/M</description>
+        <description_html>PASSION Wiki Black S/M</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>yellow</stock_level>
+        <price_rrp>31.9900</price_rrp>
+        <price_trade>8.6800</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Passion</brand>
+        <product_range>Passion Wiki Black</product_range>
+        <material>EMPTY</material>
+        <size>S/M</size>
+        <height>4</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.1000</weight>
+        <colour>Black</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/p/a/paswiki_black.jpg
+        </image>
+        <created_at>2016-02-12 11:01:04</created_at>
+        <updated_at>2017-04-26 13:11:33</updated_at>
+    </product>
+    <product>
+        <id>402</id>
+        <sku>BEAUTYNIGHTBN6015CANDYPINKL/XL</sku>
+        <matrix_id>2170</matrix_id>
+        <product_code>BN6015</product_code>
+        <name>Beauty Night Candy Pink PinkL/XL</name>
+        <description>BN6015 Beauty Night Candy Pink L/XL</description>
+        <description_html>BN6015 Beauty Night Candy Pink L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>red</stock_level>
+        <price_rrp>28.9900</price_rrp>
+        <price_trade>12.1000</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Beauty Night</brand>
+        <product_range>Beauty Night Candy Pink</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>5</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.1800</weight>
+        <colour>Pink</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/b/n/bn6015.jpg
+        </image>
+        <created_at>2016-02-12 11:01:06</created_at>
+        <updated_at>2017-04-26 13:05:19</updated_at>
+    </product>
+    <product>
+        <id>403</id>
+        <sku>BEAUTYNIGHTBN6015CANDYPINKS/M</sku>
+        <matrix_id>2171</matrix_id>
+        <product_code>BN6015</product_code>
+        <name>Beauty Night Candy Pink PinkS/M</name>
+        <description>BN6015 Beauty Night Candy Pink S/M</description>
+        <description_html>BN6015 Beauty Night Candy Pink S/M</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>red</stock_level>
+        <price_rrp>28.9900</price_rrp>
+        <price_trade>12.1000</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Beauty Night</brand>
+        <product_range>Beauty Night Candy Pink</product_range>
+        <material>EMPTY</material>
+        <size>S/M</size>
+        <height>5</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.1800</weight>
+        <colour>Pink</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/b/n/bn6015.jpg
+        </image>
+        <created_at>2016-02-12 11:01:06</created_at>
+        <updated_at>2017-04-26 13:05:19</updated_at>
+    </product>
+    <product>
+        <id>405</id>
+        <sku>BEAUTYNIGHTBN6030NAOMIL/XL</sku>
+        <matrix_id>2173</matrix_id>
+        <product_code>BN6030</product_code>
+        <name>Beauty Night Naomi White WhiteL/XL</name>
+        <description>BN6030 Beauty Night Naomi White L/XL</description>
+        <description_html>BN6030 Beauty Night Naomi White L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>red</stock_level>
+        <price_rrp>37.9900</price_rrp>
+        <price_trade>15.5000</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Beauty Night</brand>
+        <product_range>Beauty Night Naomi White</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>5</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.2000</weight>
+        <colour>White</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/b/n/bn6030_white.jpg
+        </image>
+        <created_at>2016-02-12 11:01:06</created_at>
+        <updated_at>2017-04-26 13:05:19</updated_at>
+    </product>
+    <product>
+        <id>407</id>
+        <sku>BEAUTYNIGHTBN6031ABIGAILL/XL</sku>
+        <matrix_id>2175</matrix_id>
+        <product_code>BN6031</product_code>
+        <name>Beauty Night Abigail Red Black/RedL/XL</name>
+        <description>BN6031 Beauty Night Abigail Black/Red L/XL</description>
+        <description_html>BN6031 Beauty Night Abigail Black/Red L/XL</description_html>
+        <stock_type>Stock Line</stock_type>
+        <stock_level>red</stock_level>
+        <price_rrp>28.9900</price_rrp>
+        <price_trade>12.1000</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Beauty Night</brand>
+        <product_range>Beauty Night Abigail Red</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>5</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.1200</weight>
+        <colour>Black/Red</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/b/n/bn6031.jpg
+        </image>
+        <created_at>2016-02-12 11:01:06</created_at>
+        <updated_at>2017-05-05 11:35:33</updated_at>
+    </product>
+    <product>
+        <id>408</id>
+        <sku>BEAUTYNIGHTBN6031ABIGAILS/M</sku>
+        <matrix_id>2176</matrix_id>
+        <product_code>BN6031</product_code>
+        <name>Beauty Night Abigail Red Black/RedS/M</name>
+        <description>BN6031 Beauty Night Abigail Black/Red S/M</description>
+        <description_html>BN6031 Beauty Night Abigail Black/Red S/M</description_html>
+        <stock_type>Stock Line</stock_type>
+        <stock_level>red</stock_level>
+        <price_rrp>28.9900</price_rrp>
+        <price_trade>12.1000</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Beauty Night</brand>
+        <product_range>Beauty Night Abigail Red</product_range>
+        <material>EMPTY</material>
+        <size>S/M</size>
+        <height>5</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.1200</weight>
+        <colour>Black/Red</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/b/n/bn6031.jpg
+        </image>
+        <created_at>2016-02-12 11:01:06</created_at>
+        <updated_at>2017-05-05 11:35:33</updated_at>
+    </product>
+</alterego>

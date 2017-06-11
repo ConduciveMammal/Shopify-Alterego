@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<alterego>
+    <product>
+        <id>20</id>
+        <sku>YesYX511</sku>
+        <matrix_id></matrix_id>
+        <product_code></product_code>
+        <name>Yesx YX511 Bra Set Rose/Black</name>
+        <description>DO NOT USE</description>
+        <description_html>DO NOT USE</description_html>
+        <stock_type>Stock Line</stock_type>
+        <stock_level>green</stock_level>
+        <price_rrp>18.9900</price_rrp>
+        <price_trade>8.6300</price_trade>
+        <categories>Yesx</categories>
+        <brand>YesX</brand>
+        <product_range>EMPTY</product_range>
+        <material>EMPTY</material>
+        <size>34C</size>
+        <height></height>
+        <length>EMPTY</length>
+        <width>EMPTY</width>
+        <weight>666.0000</weight>
+        <colour>Purple</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/y/x/yx511_bwlogo_3.jpg
+        </image>
+        <created_at>2016-01-21 10:12:56</created_at>
+        <updated_at>2017-06-05 08:17:16</updated_at>
+    </product>
+    <product>
+        <id>34</id>
+        <sku>BASALVAWHITEL/XL</sku>
+        <matrix_id>1539</matrix_id>
+        <product_code></product_code>
+        <name>Bassaya Alva White WhiteL/XL</name>
+        <description>BASSAYA Alva White L/XL</description>
+        <description_html>BASSAYA Alva White L/XL</description_html>
+        <stock_type>Discontinued</stock_type>
+        <stock_level>yellow</stock_level>
+        <price_rrp>11.9900</price_rrp>
+        <price_trade>5.6200</price_trade>
+        <categories>EMPTY</categories>
+        <brand>Bassaya</brand>
+        <product_range>Bassaya Alva White</product_range>
+        <material>EMPTY</material>
+        <size>L/XL</size>
+        <height>4.2</height>
+        <length>21</length>
+        <width>15</width>
+        <weight>0.0900</weight>
+        <colour>White</colour>
+        <image>
+            http://alterego-live.spiralsite.co.uk/media/catalog/product/b/a/basalva_white_reduced.jpg
+        </image>
+        <created_at>2016-02-12 11:00:55</created_at>
+        <updated_at>2017-05-05 11:35:21</updated_at>
+    </product>
+</alterego>

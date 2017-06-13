@@ -163,7 +163,27 @@
                 <li class="breadcrumb-item"><a href="index.html">Dashboard</a></li>
                 <li class="breadcrumb-item active">Stored Products</li>
             </ol>
-
+<script>
+function filterBrand(str) {
+  if (str=="") {
+    document.getElementById("brand-f").innerHTML="";
+    return;
+  } 
+  if (window.XMLHttpRequest) {
+    // code for IE7+, Firefox, Chrome, Opera, Safari
+    xmlhttp=new XMLHttpRequest();
+  } else { // code for IE6, IE5
+    xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+  xmlhttp.onreadystatechange=function() {
+    if (this.readyState==4 && this.status==200) {
+      document.getElementById("txtHint").innerHTML=this.responseText;
+    }
+  }
+  xmlhttp.open("GET","getproducts.php?q="+str,true);
+  xmlhttp.send();
+}
+</script>
 <?php 
     while ($row = mysql_fetch_array($retval, MYSQL_ASSOC)) {
         $rows[] = $row;
@@ -180,7 +200,7 @@
                              <div class="row">
                               <div class="col">
                                   <p class="text-center">&ndash; Brand &ndash;</p>
-                                  <select name="" id="brand-filter" class="form-control">
+                                  <select name="" id="brand-filter" class="form-control" onchange="filterBrand(this.value)">
                                         <option value="" selected>- Filter by Brand -</option>
                                      <?php
                                       foreach($rows as $row){
@@ -225,6 +245,7 @@
                           </div>
                          </div>
                       </div>
+                       <div id="txtHint"><b>Person info will be listed here.</b></div>
                         <table class="table table-bordered table-responsive" width="100%" id="dataTable" cellspacing="0">
                             <thead>
                                 <tr>
@@ -300,7 +321,7 @@ foreach($rows as $row){
                 <td>{$row['price_rrp']}</td>
                 <td>{$row['price_trade']}</td>
                 <td>{$row['categories']}</td>
-                <td>{$row['brand']}</td>
+                <td id='brand-f'>{$row['brand']}</td>
                 <td>{$row['product_range']}</td>
                 <td>{$row['material']}</td>
                 <td>{$row['size']}</td>
